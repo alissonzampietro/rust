@@ -5,4 +5,4 @@ The main idea behind this repository is gather all knowledge that i got about ru
 
 
 ## Basics
-* [Data types](src/basics/datatypes.py)
+* [Data types](src/basics/datatypes.rs)
