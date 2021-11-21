@@ -36,4 +36,4 @@ vec![2;3] // repeat 3 times the number 2
 cargo run
 ```
 ## Basics
-* [Data types](basics/datatypes.py)
+* [Data types](src/basics/datatypes.rs)
