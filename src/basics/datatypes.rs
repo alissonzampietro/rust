@@ -1,5 +1,5 @@
-use mutables_immutables;
-use string;
+mod mutables_immutables;
+mod string;
 
 mod datatypes {
     pub fn run() {
