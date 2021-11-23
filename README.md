@@ -1,8 +1,7 @@
 # Rust
-_The main idea behind this repository is gather all knowledge that i got about rust language._
+_The main idea behind this repository is gather all knowledge that i got about rust language. You can follow this tutorial checking the README, that contains the roadmap to execute and the links for each content._
 
-Rust is a multi-paradigm, high-level and focused on performance and safety. Rust is sintatically similar to C++,
-
+Rust is a multi-paradigm, high-level and focused on performance and safety. Rust is sintatically similar to C++. 
 
 ## Dependencies
 
